@@ -32,4 +32,4 @@ This guide explains the major building blocks required for such an integration.
 For the full detailed explanation, check out our official VAF.ai blog:
 
 ```text
-https://vaf.ai/blog/digilocker-api-integration-meri-pehchaan-production-guide](https://vaf.ai/blog-digilocker-integration
+https://vaf.ai/blog-digilocker-integration
