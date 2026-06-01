@@ -34,7 +34,5 @@ For the full detailed explanation, check out our official VAF.ai blog:
 ```text
 https://vaf.ai/blog-digilocker-integration
 
----
 Website: https://vaf.ai
 Email: support@visualappfoundry.com
-```text
